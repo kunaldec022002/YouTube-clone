@@ -1,0 +1,71 @@
+
+              
+.Nav-Img
+{
+    height: 80px;
+    margin-right: 780px;
+}
+.Nav-bar
+{
+  display: flex;
+  justify-content: end;
+  background-color: brown;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.Nav-Btn
+{
+  padding: 5px;
+  margin-left: 40px;
+  text-decoration: none;
+  margin-top: 30px;
+  font-size: 20px;
+  color: black;
+ 
+}
+
+.Nav-Btn:hover
+{
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  height: 23px;
+  box-shadow: 1px 0px 5px 2px white;
+  border-radius: 5px;
+  transition: 1s;
+}
+
+.home-video
+{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: burlywood;
+  padding: 15px;
+  margin: 4px;
+}
+
+.card-1
+{
+  background-color:cadetblue;
+  height: 275px;
+  border: solid;
+}
+.card-2
+{
+  background-color: cadetblue;
+  height: 275px;
+  border: solid;
+}
+.card-3
+{
+  background-color: cadetblue;
+  height: 275px;
+  border: solid;
+}
+
+.video-1
+{
+  padding: 5px;
+}
+
